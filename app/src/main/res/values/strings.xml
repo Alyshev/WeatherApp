@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="logo">Погода</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="no_user_nput">Данные не введены</string>
+    <string name="imageButton">image</string>
+    <string name="image">image</string>
+    <string name="feelsLike">Ощущается как:</string>
+    <string name="add">Добавить</string>
+    <string name="mainInfo">Прогноз на 5 дней</string>
+    <string name="enterCitu">Введите город</string>
+    <string name="back">Назад</string>
+    <string name="greetings">Добро пожаловать</string>
+    <string name="error">Город не найден: </string>
+    <string name="errorValid">Введите корректное название города</string>
+
+
+
+</resources>
